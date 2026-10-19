@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Munyasadza
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on projects in line with data management
+- 👋 Hi, I’m @Munyasadza, a Data Scientist with a background in Statistics, Data Analytics, and market research. 
+- 👀 I’m much focused on healthcare and predictive analytics 
+- 💞️ I’m looking to collaborate on projects in line with healthcare, market research, climate change, food security, Insurance and banking
 - - 📫 How to reach me ...
 
 <!---
